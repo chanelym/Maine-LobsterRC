@@ -96,7 +96,7 @@ h1{
         rgba(7, 37, 51, .8) 0%,
         rgba(7, 37, 51, .6) 40%,
         rgba(7, 37, 51, .2) 100%),
-        url("/Users/resilient/Desktop/Maine\ Lobster/Images/lobsterRollSmall.jpg ");
+        url("Images/lobsterRollSmall.jpg");
         background-size: cover;
         background-position: center;
     }
